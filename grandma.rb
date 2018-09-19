@@ -3,7 +3,7 @@ love = "I LOVE YOU GRANDMA!"
 def speak_to_grandma
 if love
   puts "I LOVE YOU TOO PUMPKIN!"
-  
+
 end
 end
 
