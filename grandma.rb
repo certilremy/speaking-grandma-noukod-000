@@ -3,15 +3,15 @@
 def speak_to_grandma(phrase)
 unless phrase.uppercase == "I LOVE YOU GRANDMA!"
   puts "HUH?! SPEAK UP, SONNY!"
-return
+return phrase
 else
   puts "NO, NOT SINCE 1938!"
-  return
+  return phrase
 end
 
 if phrase.uppercase == "I LOVE YOU GRANDMA!"
   puts "I LOVE YOU TOO PUMPKIN!"
-  return
+  return phrase
 end
 end
 
