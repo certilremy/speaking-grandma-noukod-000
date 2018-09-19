@@ -5,8 +5,8 @@ if love
   puts "I LOVE YOU TOO PUMPKIN!"
 return "I LOVE YOU TOO PUMPKIN!"
 elsif greeting
-  puts "Hi Nana, how are you?"
-return "Hi Nana, how are you?"
+  puts "HUH?! SPEAK UP, SONNY!"
+return "HUH?! SPEAK UP, SONNY!"
 end
 end
 
