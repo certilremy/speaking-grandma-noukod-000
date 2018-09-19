@@ -6,7 +6,7 @@ unless phrase.upcase == "I LOVE YOU GRANDMA!"
 return "HUH?! SPEAK UP, SONNY!"
 else
   puts "NO, NOT SINCE 1938!"
-  return phrase
+  return "NO, NOT SINCE 1938!"
 end
 
 if phrase.upcase == "I LOVE YOU GRANDMA!"
