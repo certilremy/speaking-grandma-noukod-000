@@ -3,8 +3,11 @@
 def speak_to_grandma(phrase)
 unless phrase.uppercase == "I LOVE YOU GRANDMA!"
   puts "HUH?! SPEAK UP, SONNY!"
-end
+
+elsif phrase.uppercase == ""
   
+end
+
 if phrase.uppercase == ""
 
 end
