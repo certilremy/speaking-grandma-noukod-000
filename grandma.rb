@@ -1,9 +1,11 @@
 # Write a speak_to_grandma method.
-love = "I LOVE YOU GRANDMA!"
-def speak_to_grandma
+
+def speak_to_grandma(love = "I LOVE YOU GRANDMA!")
 if love
   puts "I LOVE YOU TOO PUMPKIN!"
 
+elsif condition
+  
 end
 end
 
