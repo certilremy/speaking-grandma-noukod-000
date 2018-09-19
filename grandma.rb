@@ -6,12 +6,12 @@ unless phrase.upcase == "I LOVE YOU GRANDMA!"
 return "HUH?! SPEAK UP, SONNY!"
 else
   puts "NO, NOT SINCE 1938!"
-  return "NO, NOT SINCE 1938!"
+  return phrase
 end
 
 if phrase.upcase == "I LOVE YOU GRANDMA!"
   puts "I LOVE YOU TOO PUMPKIN!"
-  return phrase
+  return "I LOVE YOU TOO PUMPKIN!"
 end
 end
 
