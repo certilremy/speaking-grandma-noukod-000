@@ -3,7 +3,7 @@
 def speak_to_grandma(love = "I LOVE YOU GRANDMA!")
 if love
   puts "I LOVE YOU TOO PUMPKIN!"
-
+return "I LOVE YOU TOO PUMPKIN!"
 elsif talk
 
 end
