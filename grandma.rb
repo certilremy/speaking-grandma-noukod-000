@@ -3,11 +3,10 @@ love = "I LOVE YOU GRANDMA!"
 def speak_to_grandma
 if love
   puts "I LOVE YOU TOO PUMPKIN!"
-
+  
 end
 end
 
-if
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
