@@ -1,6 +1,6 @@
 # Write a speak_to_grandma method.
 
-def speak_to_grandma(love = "I LOVE YOU GRANDMA!")
+def speak_to_grandma(love = "I LOVE YOU GRANDMA!", greeting ="'Hi Nana, how are you?'")
 if love
   puts "I LOVE YOU TOO PUMPKIN!"
 return "I LOVE YOU TOO PUMPKIN!"
