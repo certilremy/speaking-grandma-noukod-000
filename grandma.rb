@@ -1,13 +1,12 @@
 # Write a speak_to_grandma method.
 
-def speak_to_grandma(love = "I LOVE YOU GRANDMA!", greeting ="Hi Nana, how are you?")
-if love
-  puts "I LOVE YOU TOO PUMPKIN!"
-return "I LOVE YOU TOO PUMPKIN!"
-elsif greeting
+def speak_to_grandma(phrase)
+unless phrase.uppercase == "I LOVE YOU GRANDMA!"
   puts "HUH?! SPEAK UP, SONNY!"
-return "HUH?! SPEAK UP, SONNY!"
 end
+  
+if phrase.uppercase == ""
+
 end
 
 # Whatever you say to grandma, she should respond with
