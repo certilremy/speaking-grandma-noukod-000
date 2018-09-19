@@ -1,11 +1,12 @@
 # Write a speak_to_grandma method.
 
-def speak_to_grandma(love = "I LOVE YOU GRANDMA!", greeting ="'Hi Nana, how are you?'")
+def speak_to_grandma(love = "I LOVE YOU GRANDMA!", greeting ="Hi Nana, how are you?")
 if love
   puts "I LOVE YOU TOO PUMPKIN!"
 return "I LOVE YOU TOO PUMPKIN!"
-elsif talk
-
+elsif greeting
+  puts "Hi Nana, how are you?"
+return "Hi Nana, how are you?"
 end
 end
 
